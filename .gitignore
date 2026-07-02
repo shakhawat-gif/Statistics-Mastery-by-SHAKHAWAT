@@ -1,0 +1,28 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Stata
+*.smcl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Generated outputs (keep code, ignore heavy generated images/data if large)
+*.png
+!assets/**/*.png

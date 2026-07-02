@@ -1,0 +1,2 @@
+* Part 8 — Mode
+* STATUS: NOT YET WRITTEN

@@ -4,7 +4,7 @@
 
 **Who I am:** Graduate Statistics student at Begum Rokeya University, Rangpur (BRUR), Bangladesh. Working across statistical theory, data science, and applied analytics in R, Python, STATA, and relevant tools.
 
-**What this is:** A permanent, structured, line-by-line public record of mastering statistics from historical development through to machine learning — with full derivations(as possible), R/Python/Stata/MySQL/... implementations, and self-tested Q&A at every tier (Basic → Core → Tricky → IQ → Viva → Research).
+**What this is:** A permanent, structured, line-by-line public record of mastering statistics from historical development through to AI & machine learning — with full derivations(as possible), R/Python/Stata/MySQL/... implementations, and self-tested Q&A at every tier (Basic → Core → Tricky → IQ → Viva → Research).
 
 **Why:** Because understanding something well enough to *teach it publicly* is the real test of mastery — not passing an exam. This repo is my proof of work.
 

@@ -2,9 +2,9 @@
 
 > Building a statistician — and an applied ML practitioner — completely in public.
 
-**Who I am:** Graduate Statistics student at Begum Rokeya University, Rangpur (BRUR), Bangladesh. Working across statistical theory, data science, and applied analytics in R, Python, STATA, and relevant tools.
+**Who I am:** Md. Shakhawat Hossain, a graduate Statistics student at Begum Rokeya University, Rangpur (BRUR), Bangladesh. I work across statistical theory, data science, and applied analytics using R, Python, STATA, and other relevant tools.
 
-**What this is:** A permanent, structured, line-by-line public record of mastering statistics from historical development through to AI & machine learning — with full derivations(as possible), R/Python/Stata/MySQL/... implementations, and self-tested Q&A at every tier (Basic → Core → Tricky → IQ → Viva → Research).
+**What this is:** A permanent, structured, line-by-line public record of mastering statistics from historical development to AI and machine learning, with full derivations (where possible), R/Python/Stata/MySQL/... implementations, and self-tested Q&A at every tier (Basic → Core → Tricky → IQ → Viva → Research).
 
 **Why:** Because understanding something well enough to *teach it publicly* is the real test of mastery — not passing an exam. This repo is my proof of work.
 
@@ -33,42 +33,42 @@
 
 | Module | Parts | Topic | Status |
 |---|---|---|---|
-| **C1** |0| Introduction to Statistics (History, Definition, Etymology, Characteristics, Objectives, Importance, Scope, Types, Advantages, Limitations) | 🟢 **Published — start here** |
-| **C2** |0| Statistical Data — Nature, Sources, Quality, Advantages, Limitations | ⚪ Not started |
-| **C3** |0| Types of Data — Qualitative vs Quantitative, Nominal/Ordinal/Discrete/Continuous | ⚪ Not started |
-| **C4** |0| Scales of Measurement — Nominal, Ordinal, Interval, Ratio (Stevens' Theory) | ⚪ Not started |
-| **C5** |0| Population and Sample — All types, sampling distributions, census vs sample | ⚪ Not started |
-| **C6** |0| Parameter and Statistic — All types, estimation methods, properties | ⚪ Not started |
-| 1. Foundations | 1–4 | Variables, Data Collection, Presentation, EDA | ⚪ Not started |
-| 2. Central Tendency | 5–9 | AM, GM, HM, Median, Mode, Special Means, Decision Framework | ⚪ Not started |
-| 3. Dispersion | 10–14 | Range, QD, MD, Variance, CV, SE vs SD | ⚪ Not started |
-| 4. Shape | 15–17 | Moments, Skewness, Kurtosis | ⚪ Not started |
-| 5. Probability | 18–22 | Sets, Probability, RVs, Expectation, Inequalities | ⚪ Not started |
-| 6. Distributions | 23–27 | All discrete/continuous/bivariate distributions | ⚪ Not started |
-| 7. Bivariate Analysis | 28–31 | Bivariate data, Correlation, Regression, Attributes | ⚪ Not started |
-| 8. Sampling Distributions | 32–35 | Generating functions, CLT, χ²/t/F, Order Stats | ⚪ Not started |
-| 9. Statistical Inference - Estimation | 36–39 | Point, Interval, MLE, EM, Non-parametric | ⚪ Not started |
-| 10. Statistical Inference - Hypothesis Testing | 40–47 | All tests, Optimal theory, SPRT, Bayesian | ⚪ Not started |
-| 11. Regression (Advanced) | 48–52 | SLR, MLR, Polynomial, Diagnostics, Nonlinear | ⚪ Not started |
-| 12. Design of Experiments | 53–56 | ANOVA, ANCOVA, CRD/RBD/LSD, BIBD, Factorial | ⚪ Not started |
-| 13. Sampling Techniques | 57–60 | SRS, Stratified, Cluster, PPS, Advanced | ⚪ Not started |
-| 14. Stochastic Processes | 61–63 | Markov Chains, Queuing, Branching | ⚪ Not started |
-| 15. GLMs | 64–67 | Logistic, Ordinal, Poisson, Mixed | ⚪ Not started |
-| 16. Time Series | 68–71 | Decomposition, ARIMA, Spectral, VAR | ⚪ Not started |
-| 17. Nonparametric/Robust | 72–73 | ARE, all NP tests, Robust estimation | ⚪ Not started |
-| 18. Quality Control | 74–75 | Control charts, Acceptance sampling | ⚪ Not started |
-| 19. Simulation | 76–77 | Monte Carlo, MCMC | ⚪ Not started |
-| 20. Econometrics | 78–79 | OLS violations, Panel data, IV | ⚪ Not started |
-| 21. Multivariate Analysis | 80–90 | MVN, PCA, FA, CCA, Cluster, LDA, MANOVA | ⚪ Not started |
-| 22. Survival/Epidemiology | 91–93 | Study designs, KM, Cox, Parametric | ⚪ Not started |
-| 23. Statistical ML | 94–98 | Classification, SVM, NN, Clustering, Text | ⚪ Not started |
-| 24. Bioinformatics | 99–101 | Sequences, QTL, Genomics, Systems Biology | ⚪ Not started |
-| 25. Spatial Statistics | 102–103 | Geostatistics, Kriging, Spatio-temporal | ⚪ Not started |
-| 26. Demography | 104–105 | Life tables, Stable population, Projection | ⚪ Not started |
-| 27. Applied Bayesian | 106–108 | Priors, Inference, MCMC, EM | ⚪ Not started |
-| 28. Signal Processing | 109 | Signal estimation, detection, Kalman | ⚪ Not started |
-| 29. Statistical Programming | 110–113 | R, Python, Stata, MySQL — systematic coverage | ⚪ Not started |
-| 30. Beyond | 114–121 | Decision Theory, Information Theory, Causal Inference, Asymptotics, LA, OR, Health Informatics, DBMS | ⚪ Not started |
+| **C1** |0| **Introduction to Statistics** (History, Definition, Etymology, Characteristics, Objectives, Importance, Scope, Types, Advantages, Limitations) | 🟢 **Published — start here** |
+| **C2** |0| **Statistical Data** — Nature, Sources, Quality, Advantages, Limitations | ⚪ Not started |
+| **C3** |0| **Types of Data** — Qualitative vs Quantitative, Nominal/Ordinal/Discrete/Continuous | ⚪ Not started |
+| **C4** |0| **Scales of Measurement** — Nominal, Ordinal, Interval, Ratio (Stevens' Theory) | ⚪ Not started |
+| **C5** |0| **Population and Sample** — All types, sampling distributions, census vs sample | ⚪ Not started |
+| **C6** |0| **Parameter and Statistic** — All types, estimation methods, properties | ⚪ Not started |
+| 1. **Foundations** | 1–4 | Variables, Data Collection, Presentation, EDA | ⚪ Not started |
+| 2. **Central Tendency** | 5–9 | AM, GM, HM, Median, Mode, Special Means, Decision Framework | ⚪ Not started |
+| 3. **Dispersion** | 10–14 | Range, QD, MD, Variance, CV, SE vs SD | ⚪ Not started |
+| 4. **Shape** | 15–17 | Moments, Skewness, Kurtosis | ⚪ Not started |
+| 5. **Probability** | 18–22 | Sets, Probability, RVs, Expectation, Inequalities | ⚪ Not started |
+| 6. **Distributions** | 23–27 | All discrete/continuous/bivariate distributions | ⚪ Not started |
+| 7. **Bivariate Analysis** | 28–31 | Bivariate data, Correlation, Regression, Attributes | ⚪ Not started |
+| 8. **Sampling Distributions** | 32–35 | Generating functions, CLT, χ²/t/F, Order Stats | ⚪ Not started |
+| 9. **Statistical Inference - Estimation** | 36–39 | Point, Interval, MLE, EM, Non-parametric | ⚪ Not started |
+| 10. **Statistical Inference - Hypothesis Testing** | 40–47 | All tests, Optimal theory, SPRT, Bayesian | ⚪ Not started |
+| 11. **Regression (Advanced)** | 48–52 | SLR, MLR, Polynomial, Diagnostics, Nonlinear | ⚪ Not started |
+| 12. **Design of Experiments** | 53–56 | ANOVA, ANCOVA, CRD/RBD/LSD, BIBD, Factorial | ⚪ Not started |
+| 13. **Sampling Techniques** | 57–60 | SRS, Stratified, Cluster, PPS, Advanced | ⚪ Not started |
+| 14. **Stochastic Processes** | 61–63 | Markov Chains, Queuing, Branching | ⚪ Not started |
+| 15. **GLMs** | 64–67 | Logistic, Ordinal, Poisson, Mixed | ⚪ Not started |
+| 16. **Time Series** | 68–71 | Decomposition, ARIMA, Spectral, VAR | ⚪ Not started |
+| 17. **Nonparametric/Robust** | 72–73 | ARE, all NP tests, Robust estimation | ⚪ Not started |
+| 18. **Quality Control** | 74–75 | Control charts, Acceptance sampling | ⚪ Not started |
+| 19. **Simulation** | 76–77 | Monte Carlo, MCMC | ⚪ Not started |
+| 20. **Econometrics** | 78–79 | OLS violations, Panel data, IV | ⚪ Not started |
+| 21. **Multivariate Analysis** | 80–90 | MVN, PCA, FA, CCA, Cluster, LDA, MANOVA | ⚪ Not started |
+| 22. **Survival/Epidemiology** | 91–93 | Study designs, KM, Cox, Parametric | ⚪ Not started |
+| 23. **Statistical ML** | 94–98 | Classification, SVM, NN, Clustering, Text | ⚪ Not started |
+| 24. **Bioinformatics** | 99–101 | Sequences, QTL, Genomics, Systems Biology | ⚪ Not started |
+| 25. **Spatial Statistics** | 102–103 | Geostatistics, Kriging, Spatio-temporal | ⚪ Not started |
+| 26. **Population Studies and Demography** | 104–105 | Life tables, Stable population, Projection | ⚪ Not started |
+| 27. **Applied Bayesian** | 106–108 | Priors, Inference, MCMC, EM | ⚪ Not started |
+| 28. **Signal Processing** | 109 | Signal estimation, detection, Kalman | ⚪ Not started |
+| 29. **Statistical Programming** | 110–113 | R, Python, Stata, MySQL — systematic coverage | ⚪ Not started |
+| 30. **Beyond** | 114–121 | Decision Theory, Information Theory, Causal Inference, Asymptotics, LA, OR, Health Informatics, DBMS | ⚪ Not started |
 
 **Total: 0 / 121 parts public** (Part C1 in active drafting)
 
